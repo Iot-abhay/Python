@@ -1,1 +1,0 @@
-print("Abhay is good boy")
